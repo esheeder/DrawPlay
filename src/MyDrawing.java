@@ -3,7 +3,7 @@ import java.awt.Graphics;
 import javax.swing.JFrame;
 import javax.swing.JPanel;
 
-
+//this is a comment
 public class MyDrawing extends JPanel {
 	private Cat cat;
 	public MyDrawing() 
